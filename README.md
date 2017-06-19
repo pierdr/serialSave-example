@@ -1,7 +1,7 @@
 # serialSave-examples
 --
 <div style="text-align:center">
-<img  src="http://payload532.cargocollective.com/1/23/757295/12942403/icon_1024.png"></img>
+<img  width="256" src="http://payload532.cargocollective.com/1/23/757295/12942403/icon_1024.png"></img>
 </div>
 
 serialSave it's a tool for saving incoming signals from a microcontroller. 
